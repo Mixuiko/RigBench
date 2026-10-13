@@ -1,4 +1,4 @@
-# RigBench
+# GHOSTBENCH
 
 A safe, repeatable local benchmark tool for Windows and Linux. Python standard library only.
 
